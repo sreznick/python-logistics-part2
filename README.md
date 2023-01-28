@@ -5,4 +5,4 @@
 
 [Wikipedia: Коды статуса HTTP-ответов](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
-[Wikipedia: Стандартные HTTP-заголовки] (https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+[Wikipedia: Стандартные HTTP-заголовки](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
